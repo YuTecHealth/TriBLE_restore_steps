@@ -29,4 +29,6 @@
     alt="Yutech logo" width="500" height=""></code>
 * X. 等待約 20~30 秒，出現下圖即燒錄成功。
 * **Figure of successful burning** <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_14.png" align="middle"
-    alt="Yutech logo" width="500" height=""></code>
+    alt="Yutech logo" width="500" height=""></code><br> <br> <br> <br> 
+--------------------------------------------------------------<br> 
+#### **更多韌體開發說明，請參考YuTech TriAnswer韌體主頁**   [**點此**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino)
