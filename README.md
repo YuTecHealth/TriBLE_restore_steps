@@ -2,7 +2,8 @@
 方法一： 單獨用USB線將TriBLE母板以USB模式連上PC電腦 (一般流程)。 <br> 
 方法二： 搭配J-Link裝置與USB線，將TriBLE母板以USB模式連上PC電腦 (完全死機流程)。 <br> 
 --------------------------------------------------------------<br> 
-**方法一**
+**方法一** <br>
+(請先取得Arduino IDE與 Yutech Library) [**點此.**](https://github.com/YuTecHealth/TriBLE_Arduino_Program#2-%E5%9C%A8-arduino-ide-%E4%B8%8A%E9%96%8B%E7%99%BC-trible)
 * I. 在Arduino IDE選單上，點選 `工具 > 開發板 > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840`
 * II. 點選 `工具 > 序列埠 > COMXX (Yutech TriBLE nRF52840)`
 * III. 點選 `工具 > 燒錄器 > TriBLE Official Firmware`
