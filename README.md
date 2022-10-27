@@ -3,7 +3,7 @@
 方法二： 搭配J-Link裝置與USB線，將TriBLE母板以USB模式連上PC電腦 (完全死機流程)。 <br> 
 --------------------------------------------------------------<br> 
 **方法一** <br>
-2022/10/27 更新TriBLE window版燒錄程式(無須arduino IDE即可燒錄)！<br>
+2022年 最新TriBLE window版燒錄程式(無須arduino IDE即可燒錄)！<br>
 取得最新TriBLE燒錄程式 [**點此下載.**](https://drive.google.com/drive/folders/13cF7TCU3yyi3t1TC9Sbbl3floOsgF9st?usp=sharing) <br>
 
 以下為依靠arduino IDE燒錄流程，也會持續同步更新：
