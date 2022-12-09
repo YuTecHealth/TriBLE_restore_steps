@@ -29,7 +29,7 @@
     alt="Yutech logo" width="500" height=""></code>
 * V. 開啟 Arduino IDE 程式。
 * VI. 在Arduino IDE選單上，點選 `工具 > 開發板 > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840`
-* VII. 點選 `工具 > 燒錄器 > TriBLE Official Firmware`
+* VII. 點選 `工具 > 燒錄器 > J-link for TriBLE nRF52`
 * VIII. 點選 `工具 > 燒錄 Bootloader` 並點選 `接受` <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_13.png" align="middle"
     alt="Yutech logo" width="500" height=""></code>
 * IX. 等待約 20~30 秒，出現下圖即燒錄成功。
